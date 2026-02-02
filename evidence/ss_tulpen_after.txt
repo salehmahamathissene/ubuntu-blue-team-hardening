@@ -1,0 +1,5 @@
+Netid State  Recv-Q Send-Q Local Address:Port Peer Address:PortProcess                                                                     
+udp   UNCONN 0      0         127.0.0.54:53        0.0.0.0:*    uid:991 ino:16522 sk:1 cgroup:/system.slice/systemd-resolved.service <->   
+udp   UNCONN 0      0      127.0.0.53%lo:53        0.0.0.0:*    uid:991 ino:16520 sk:2 cgroup:/system.slice/systemd-resolved.service <->   
+tcp   LISTEN 0      4096      127.0.0.54:53        0.0.0.0:*    uid:991 ino:16523 sk:1001 cgroup:/system.slice/systemd-resolved.service <->
+tcp   LISTEN 0      4096   127.0.0.53%lo:53        0.0.0.0:*    uid:991 ino:16521 sk:1002 cgroup:/system.slice/systemd-resolved.service <->
